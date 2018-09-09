@@ -10,3 +10,5 @@ tutorial2から追加
 学校PCから追加
 
 さらに学校PCから追加
+
+ideapad のtutorial1から追加
